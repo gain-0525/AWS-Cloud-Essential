@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "genres 컬럼 첫 번째 값 타입: <class 'list'>\ngenres 첫 번째 값: [{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}] ...\n"}

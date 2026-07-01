@@ -1,0 +1,13 @@
+{
+  "shell_port": 47465,
+  "iopub_port": 44961,
+  "stdin_port": 42065,
+  "control_port": 52457,
+  "hb_port": 37025,
+  "ip": "127.0.0.1",
+  "key": "6e210cfc-b307dec07f7389230918363a",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/day2_Rekognition/7-ppe-detection-exercise.ipynb"
+}

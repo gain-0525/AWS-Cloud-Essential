@@ -1,0 +1,13 @@
+{
+  "shell_port": 39789,
+  "iopub_port": 42875,
+  "stdin_port": 40903,
+  "control_port": 52843,
+  "hb_port": 54245,
+  "ip": "127.0.0.1",
+  "key": "dce3f68e-046a38867f404895aeb07859",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/day2_Rekognition/2-content-moderation-exercise.ipynb"
+}

@@ -1,0 +1,13 @@
+{
+  "shell_port": 49817,
+  "iopub_port": 56169,
+  "stdin_port": 57039,
+  "control_port": 50771,
+  "hb_port": 60761,
+  "ip": "127.0.0.1",
+  "key": "fed54ec3-a89f61b0445eadaa7afc189d",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/day2_Rekognition/6-celebrity-recognition-exercise.ipynb"
+}

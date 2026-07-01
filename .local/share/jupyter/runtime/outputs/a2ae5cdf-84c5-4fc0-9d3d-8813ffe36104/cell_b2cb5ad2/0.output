@@ -1,0 +1,1 @@
+{"output_type": "stream", "text": "정의된 쿼리: 3개\n  [DOCUMENT_DATE] What is the document date?\n  [NAME] What is the name?\n  [REF_NUM] What is the reference number?\n", "name": "stdout"}

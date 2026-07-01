@@ -1,0 +1,13 @@
+{
+  "shell_port": 34553,
+  "iopub_port": 59697,
+  "stdin_port": 58393,
+  "control_port": 38283,
+  "hb_port": 45673,
+  "ip": "127.0.0.1",
+  "key": "2a3cbb31-68a4aafc56dc2e475628973d",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/day3_Textract/2-forms-tables-exercise.ipynb"
+}

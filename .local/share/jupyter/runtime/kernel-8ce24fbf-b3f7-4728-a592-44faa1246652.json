@@ -1,0 +1,13 @@
+{
+  "shell_port": 41379,
+  "iopub_port": 58763,
+  "stdin_port": 40495,
+  "control_port": 60323,
+  "hb_port": 43161,
+  "ip": "127.0.0.1",
+  "key": "75107f92-c4052da7e536d1ac4c725e27",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/day3_Textract/1-text-detection-exercise.ipynb"
+}

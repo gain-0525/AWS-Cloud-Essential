@@ -1,0 +1,13 @@
+{
+  "shell_port": 43267,
+  "iopub_port": 36103,
+  "stdin_port": 39675,
+  "control_port": 59583,
+  "hb_port": 41443,
+  "ip": "127.0.0.1",
+  "key": "87fc493c-d068a65496ff2be104d788f5",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/day2_bedrock/bedrock-p1-lab1-student.ipynb"
+}

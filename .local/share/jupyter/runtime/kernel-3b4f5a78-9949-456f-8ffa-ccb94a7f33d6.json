@@ -1,0 +1,13 @@
+{
+  "shell_port": 52801,
+  "iopub_port": 46161,
+  "stdin_port": 57703,
+  "control_port": 58631,
+  "hb_port": 53477,
+  "ip": "127.0.0.1",
+  "key": "9b11ab26-60d2266b230bf294f7c88e45",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/day2_Rekognition/4-face-comparison-exercise.ipynb"
+}

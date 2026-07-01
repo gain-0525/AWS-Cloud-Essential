@@ -1,0 +1,13 @@
+{
+  "shell_port": 55245,
+  "iopub_port": 49545,
+  "stdin_port": 51307,
+  "control_port": 34849,
+  "hb_port": 53239,
+  "ip": "127.0.0.1",
+  "key": "d9cc0cf4-e895cb687dc4d6e3db902e6d",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/tmdb-dataset.ipynb"
+}

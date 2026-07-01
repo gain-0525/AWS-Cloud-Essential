@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "참고: Comprehend 토픽 모델링은 S3 + 비동기 잡으로 동작합니다 (수십 분 소요).\n아래에서는 같은 개념(비지도 군집)을 즉시 체험합니다.\n"}

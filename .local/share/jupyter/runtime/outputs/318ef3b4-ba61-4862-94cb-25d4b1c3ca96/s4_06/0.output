@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "언어: ko\n감성: NEUTRAL\n개체: [{'text': '삼성전자', 'type': 'ORGANIZATION', 'score': 0.999}, {'text': '2024년', 'type': 'DATE', 'score': 0.996}, {'text': '서울', 'type': 'LOCATION', 'score': 0.985}, {'text': 'AI', 'type': 'OTHER', 'score': 0.591}]\n핵심문구: ['삼성전자', '2024년', '서울', 'AI 반도체 신제품']\n"}

@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "movies  shape: (4803, 20)\ncredits shape: (4803, 4)\n\n병합 후 shape: (4809, 23)\n"}

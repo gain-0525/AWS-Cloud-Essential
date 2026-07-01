@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "제거 전: 4809행  →  제거 후: 3232행  (제거: 1577행)\n결측 요약:\nbudget           0\nrevenue          0\nruntime          0\ndirector_name    2\ndtype: int64\n"}

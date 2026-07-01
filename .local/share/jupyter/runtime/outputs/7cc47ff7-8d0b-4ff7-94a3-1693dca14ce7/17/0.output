@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "marketing_score 통계:\ncount    3232.00\nmean       37.56\nstd         6.99\nmin         7.58\n25%        33.33\n50%        37.65\n75%        41.80\nmax        94.82\nName: marketing_score, dtype: float64\n"}

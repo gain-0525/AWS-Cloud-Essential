@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "Collecting geographiclib<3,>=1.52 (from geopy)\r\n  Downloading geographiclib-2.1-py3-none-any.whl.metadata (1.6 kB)\r\nCollecting branca>=0.6.0 (from folium)\r\n  Downloading branca-0.8.2-py3-none-any.whl.metadata (1.7 kB)\r\n"}
